@@ -15,11 +15,14 @@
 
 h1{
     color: #fff; 
+    font-size: 5rem;
+    font-weight: 700;
 }
 
 #home p span {
     color: #fff;
+    margin-top: 40px;
     padding-bottom: 4px;
-    letter-spacing: 1px;
-    border-bottom: 3px solid #149ddd;
+    /* letter-spacing: 1px; */
+    /* border-bottom: 3px solid #149ddd; */
 }
