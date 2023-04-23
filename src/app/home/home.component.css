@@ -39,7 +39,7 @@ h1 a {
   position: absolute;
   top: 50%;
   left: 50%;
-  padding: 29px;
+  padding: 6px;
   transform: translate(-50%, -50%);
   display: none;
 }
